@@ -1,5 +1,4 @@
 # Jehan
-Team ID : NM2023TMID05684
 
 Team Size : 4
 
